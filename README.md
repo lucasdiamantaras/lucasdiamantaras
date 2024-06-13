@@ -1,6 +1,6 @@
 👋 Hi there, I'm Lucas!
 🌎 Based in Florianópolis, Brazil, I'm passionate about transforming data into insights. With a background in Purchasing Analysis and a pivot to Data Analysis, I've dedicated myself to mastering the art of data storytelling.
-Currently I'm undergraduate studant in Data Science, seeking new learning and development opportunities.
+Currently I'm an undergraduate studant in Data Science, seeking new learning and development opportunities.
 
 🔍 What I Do:
 
